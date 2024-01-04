@@ -1,0 +1,14 @@
+//
+// Created by rk027738 on 1/4/2024.
+//
+
+#ifndef GRAPH_PUZZLE_GAME_RK027738_MAIN_H
+#define GRAPH_PUZZLE_GAME_RK027738_MAIN_H
+
+
+class Main {
+
+};
+
+
+#endif //GRAPH_PUZZLE_GAME_RK027738_MAIN_H
