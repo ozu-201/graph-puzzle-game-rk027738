@@ -41,6 +41,13 @@ namespace array{
     void Graph::addEdge(std::string from, std::string to) {
         int fromIndex = findIndex(from);
         int toIndex = findIndex(to);
+
+        if(fromIndex == -1 || toIndex == -1){
+            cout << "not found" << endl;
+            return;
+        }
+
+        addEdge(fromIndex,toIndex);
     }
 
 
